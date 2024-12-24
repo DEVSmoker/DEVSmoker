@@ -26,4 +26,4 @@
     </a>
 </div>
   
-![snake gif](https://github.com/DEVSmoker/DEVSmoker/blob/output/github-contribution-grid-snake.svg)
+
